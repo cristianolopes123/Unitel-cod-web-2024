@@ -1,0 +1,30 @@
+.Login{
+
+ color:white; 
+ font-family: arial;  
+ background-color: orange;
+ text-align: center;
+}
+
+body{
+    background-color: darkcyan;
+    }
+
+    p{
+        color: white;
+        font-family: arial;
+    }
+.butao{
+
+background-color: orange;
+color: white;
+text-decoration: none;
+font-size: 20px;
+padding-top: 10px;
+padding-left: 20px;
+padding-right:20px ;
+padding-bottom: 10px;
+border-radius: 10PX;
+
+}
+    

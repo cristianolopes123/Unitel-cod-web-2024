@@ -1,0 +1,31 @@
+
+body{
+
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.container{
+    display: flex;
+    background-color: dimgrey;
+    justify-content: center;
+}
+
+ul{
+    text-decoration: none;
+
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+li{
+    text-decoration: none;
+    color: black;
+    font-family: arial;
+}
+
